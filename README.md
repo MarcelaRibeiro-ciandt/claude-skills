@@ -20,11 +20,6 @@ Lightweight prompts for common ADHD friction points. Each addresses a specific s
 | `/stuck` | "I'm stuck", "I hit a wall", "I don't know what to do next" |
 | `/timeblind` | "I lost track of time", "how much time do I actually have" |
 
-### `figma/`
-| Skill | Purpose |
-|---|---|
-| `figma-best-practices` | Applies Figma's official editorial and structural best practices when building or editing Figma files. Pairs with operational `figma:*` skills. |
-
 ## Installing
 
 Copy any skill folder into `~/.claude/skills/`:
